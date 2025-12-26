@@ -1,0 +1,43 @@
+body{
+    background-color: lightskyblue;
+}
+h1{
+    color:darkblue;
+    text-align: center;
+    font-size: 150PX;
+    background-color:rgba(255, 255, 255, 0.493);
+}
+nav {
+      background-color:  lightskyblue;
+      margin: 10;
+      padding: 50PX;
+      float : left;
+      
+    }
+nav a:hover{
+    background-color:burlywood;
+}
+p{
+    font-size: 50px;
+    font-style: oblique;
+    color: white;
+}   
+a{
+    color: white;
+}
+img{
+width: 200px;
+height: 200px;
+}   
+body{
+    background-image: url(images/trading.png) ;
+    background-size:cover ;
+}
+video{
+    display: block;
+    margin:auto;
+}
+img{
+    width:20px ;
+    height:30px ;
+}
